@@ -1,0 +1,580 @@
+Report: [51, 53, 56, 57, 59, 56, 57, 60] - Safe: false, Bad levels: 2
+Report: [68, 70, 71, 69, 72, 74, 71] - Safe: false, Bad levels: 2
+Report: [59, 61, 63, 66, 64, 66, 66] - Safe: false, Bad levels: 2
+Report: [55, 56, 55, 58, 61, 63, 64, 68] - Safe: false, Bad levels: 2
+Report: [3, 4, 5, 8, 11, 9, 10, 17] - Safe: false, Bad levels: 2
+Report: [70, 71, 73, 73, 74, 76, 78, 75] - Safe: false, Bad levels: 2
+Report: [16, 17, 20, 20, 23, 23] - Safe: false, Bad levels: 2
+Report: [10, 12, 12, 15, 16, 17, 21] - Safe: false, Bad levels: 2
+Report: [50, 53, 56, 56, 63] - Safe: false, Bad levels: 2
+Report: [25, 26, 29, 33, 36] - Safe: false, Bad levels: 2
+Report: [52, 54, 56, 57, 60, 64, 66, 63] - Safe: false, Bad levels: 2
+Report: [59, 60, 63, 66, 70, 73, 73] - Safe: false, Bad levels: 2
+Report: [42, 43, 45, 47, 51, 54, 58] - Safe: false, Bad levels: 2
+Report: [69, 71, 72, 73, 75, 79, 86] - Safe: false, Bad levels: 2
+Report: [13, 16, 17, 24, 25, 28, 31, 33] - Safe: false, Bad levels: 2
+Report: [9, 10, 17, 19, 16] - Safe: false, Bad levels: 2
+Report: [6, 7, 8, 15, 18, 18] - Safe: false, Bad levels: 2
+Report: [17, 18, 24, 27, 31] - Safe: false, Bad levels: 2
+Report: [20, 21, 23, 30, 36] - Safe: false, Bad levels: 2
+Report: [27, 24, 25, 26, 28, 31, 34] - Safe: false, Bad levels: 2
+Report: [29, 26, 28, 30, 31, 34, 33] - Safe: false, Bad levels: 2
+Report: [86, 83, 84, 86, 87, 89, 91, 91] - Safe: false, Bad levels: 2
+Report: [81, 79, 80, 83, 85, 89] - Safe: false, Bad levels: 2
+Report: [56, 55, 57, 59, 66] - Safe: false, Bad levels: 2
+Report: [49, 48, 46, 47, 49] - Safe: false, Bad levels: 2
+Report: [77, 76, 77, 76, 74] - Safe: false, Bad levels: 2
+Report: [42, 41, 44, 43, 46, 46] - Safe: false, Bad levels: 2
+Report: [86, 85, 86, 85, 88, 92] - Safe: false, Bad levels: 2
+Report: [16, 13, 14, 11, 16] - Safe: false, Bad levels: 2
+Report: [34, 32, 32, 35, 36, 39, 41] - Safe: false, Bad levels: 2
+Report: [36, 34, 35, 36, 36, 38, 35] - Safe: false, Bad levels: 2
+Report: [8, 6, 8, 8, 10, 13, 13] - Safe: false, Bad levels: 2
+Report: [17, 15, 15, 18, 21, 25] - Safe: false, Bad levels: 2
+Report: [18, 17, 17, 18, 25] - Safe: false, Bad levels: 2
+Report: [85, 84, 86, 88, 89, 93, 96] - Safe: false, Bad levels: 2
+Report: [37, 36, 40, 41, 38] - Safe: false, Bad levels: 2
+Report: [25, 22, 24, 28, 29, 29] - Safe: false, Bad levels: 2
+Report: [70, 68, 71, 74, 78, 82] - Safe: false, Bad levels: 2
+Report: [16, 13, 14, 15, 17, 21, 27] - Safe: false, Bad levels: 2
+Report: [58, 57, 62, 63, 65, 66, 68] - Safe: false, Bad levels: 2
+Report: [84, 81, 84, 85, 90, 88] - Safe: false, Bad levels: 2
+Report: [67, 66, 68, 74, 75, 78, 78] - Safe: false, Bad levels: 2
+Report: [68, 66, 73, 76, 80] - Safe: false, Bad levels: 2
+Report: [38, 35, 41, 43, 45, 46, 52] - Safe: false, Bad levels: 2
+Report: [28, 28, 31, 33, 31] - Safe: false, Bad levels: 2
+Report: [43, 43, 44, 47, 48, 49, 52, 52] - Safe: false, Bad levels: 2
+Report: [68, 68, 69, 72, 74, 75, 79] - Safe: false, Bad levels: 2
+Report: [60, 60, 62, 65, 67, 70, 76] - Safe: false, Bad levels: 2
+Report: [38, 38, 37, 38, 40] - Safe: false, Bad levels: 2
+Report: [18, 18, 21, 22, 25, 23, 22] - Safe: false, Bad levels: 2
+Report: [19, 19, 16, 17, 19, 20, 20] - Safe: false, Bad levels: 2
+Report: [24, 24, 22, 25, 29] - Safe: false, Bad levels: 2
+Report: [38, 38, 35, 38, 43] - Safe: false, Bad levels: 2
+Report: [14, 14, 14, 16, 18, 20] - Safe: false, Bad levels: 2
+Report: [55, 55, 55, 56, 53] - Safe: false, Bad levels: 2
+Report: [32, 32, 35, 35, 38, 41, 41] - Safe: false, Bad levels: 2
+Report: [14, 14, 15, 15, 16, 20] - Safe: false, Bad levels: 2
+Report: [18, 18, 18, 19, 20, 27] - Safe: false, Bad levels: 2
+Report: [42, 42, 45, 49, 52, 54, 56] - Safe: false, Bad levels: 2
+Report: [19, 19, 23, 26, 27, 24] - Safe: false, Bad levels: 2
+Report: [71, 71, 73, 76, 80, 83, 85, 85] - Safe: false, Bad levels: 2
+Report: [35, 35, 38, 42, 46] - Safe: false, Bad levels: 2
+Report: [25, 25, 29, 32, 37] - Safe: false, Bad levels: 2
+Report: [28, 28, 30, 35, 37, 38, 40, 41] - Safe: false, Bad levels: 2
+Report: [33, 33, 38, 39, 38] - Safe: false, Bad levels: 2
+Report: [69, 69, 72, 79, 79] - Safe: false, Bad levels: 2
+Report: [8, 8, 13, 14, 15, 18, 22] - Safe: false, Bad levels: 2
+Report: [40, 40, 42, 47, 53] - Safe: false, Bad levels: 2
+Report: [83, 87, 89, 90, 91] - Safe: false, Bad levels: 2
+Report: [18, 22, 25, 27, 28, 30, 32, 31] - Safe: false, Bad levels: 2
+Report: [47, 51, 54, 57, 60, 60] - Safe: false, Bad levels: 2
+Report: [66, 70, 72, 74, 78] - Safe: false, Bad levels: 2
+Report: [24, 28, 31, 33, 40] - Safe: false, Bad levels: 2
+Report: [65, 69, 67, 70, 72, 74, 73] - Safe: false, Bad levels: 2
+Report: [72, 76, 77, 80, 83, 80, 80] - Safe: false, Bad levels: 2
+Report: [54, 58, 61, 58, 62] - Safe: false, Bad levels: 2
+Report: [59, 63, 65, 66, 65, 66, 72] - Safe: false, Bad levels: 2
+Report: [28, 32, 32, 34, 35, 38, 41] - Safe: false, Bad levels: 2
+Report: [16, 20, 21, 23, 23, 22] - Safe: false, Bad levels: 2
+Report: [48, 52, 52, 55, 58, 58] - Safe: false, Bad levels: 2
+Report: [17, 21, 21, 24, 25, 29] - Safe: false, Bad levels: 2
+Report: [19, 23, 24, 25, 25, 28, 33] - Safe: false, Bad levels: 2
+Report: [39, 43, 44, 47, 51, 53, 54] - Safe: false, Bad levels: 2
+Report: [4, 8, 10, 14, 16, 17, 18, 17] - Safe: false, Bad levels: 2
+Report: [7, 11, 12, 15, 19, 22, 22] - Safe: false, Bad levels: 2
+Report: [70, 74, 77, 78, 80, 84, 88] - Safe: false, Bad levels: 2
+Report: [60, 64, 67, 70, 74, 76, 81] - Safe: false, Bad levels: 2
+Report: [47, 51, 58, 59, 60, 62, 64] - Safe: false, Bad levels: 2
+Report: [9, 13, 14, 16, 22, 19] - Safe: false, Bad levels: 2
+Report: [21, 25, 32, 33, 35, 35] - Safe: false, Bad levels: 2
+Report: [78, 82, 89, 91, 95] - Safe: false, Bad levels: 2
+Report: [15, 19, 26, 29, 36] - Safe: false, Bad levels: 2
+Report: [53, 58, 59, 61, 64, 66] - Safe: false, Bad levels: 2
+Report: [52, 59, 60, 62, 63, 64, 66, 65] - Safe: false, Bad levels: 2
+Report: [60, 67, 70, 71, 71] - Safe: false, Bad levels: 2
+Report: [67, 72, 75, 76, 79, 81, 85] - Safe: false, Bad levels: 2
+Report: [19, 25, 26, 28, 30, 37] - Safe: false, Bad levels: 2
+Report: [13, 19, 21, 18, 20] - Safe: false, Bad levels: 2
+Report: [10, 16, 19, 22, 24, 26, 23, 21] - Safe: false, Bad levels: 2
+Report: [37, 42, 41, 44, 46, 46] - Safe: false, Bad levels: 2
+Report: [53, 60, 63, 64, 62, 64, 68] - Safe: false, Bad levels: 2
+Report: [48, 54, 55, 53, 59] - Safe: false, Bad levels: 2
+Report: [49, 54, 57, 57, 60, 63, 65] - Safe: false, Bad levels: 2
+Report: [27, 34, 35, 35, 38, 41, 38] - Safe: false, Bad levels: 2
+Report: [37, 42, 45, 48, 49, 51, 51, 51] - Safe: false, Bad levels: 2
+Report: [68, 75, 78, 78, 80, 84] - Safe: false, Bad levels: 2
+Report: [36, 41, 43, 43, 49] - Safe: false, Bad levels: 2
+Report: [36, 42, 45, 46, 50, 52] - Safe: false, Bad levels: 2
+Report: [24, 31, 35, 36, 35] - Safe: false, Bad levels: 2
+Report: [3, 10, 13, 14, 18, 21, 21] - Safe: false, Bad levels: 2
+Report: [25, 32, 34, 37, 41, 45] - Safe: false, Bad levels: 2
+Report: [51, 57, 58, 60, 64, 71] - Safe: false, Bad levels: 2
+Report: [10, 17, 19, 21, 23, 25, 32, 34] - Safe: false, Bad levels: 2
+Report: [41, 46, 48, 51, 54, 60, 58] - Safe: false, Bad levels: 2
+Report: [7, 12, 15, 17, 23, 25, 27, 27] - Safe: false, Bad levels: 2
+Report: [11, 18, 19, 25, 29] - Safe: false, Bad levels: 2
+Report: [56, 63, 64, 67, 70, 75, 80] - Safe: false, Bad levels: 2
+Report: [35, 34, 33, 32, 29, 26, 27, 30] - Safe: false, Bad levels: 2
+Report: [95, 94, 93, 90, 92, 91, 91] - Safe: false, Bad levels: 2
+Report: [32, 29, 28, 25, 28, 26, 23, 19] - Safe: false, Bad levels: 2
+Report: [62, 61, 59, 58, 61, 59, 56, 51] - Safe: false, Bad levels: 2
+Report: [47, 46, 45, 44, 44, 46] - Safe: false, Bad levels: 2
+Report: [84, 82, 79, 77, 74, 74, 74] - Safe: false, Bad levels: 2
+Report: [16, 14, 13, 11, 10, 10, 9, 5] - Safe: false, Bad levels: 2
+Report: [73, 71, 68, 68, 62] - Safe: false, Bad levels: 2
+Report: [42, 39, 35, 32, 29, 26, 24] - Safe: false, Bad levels: 2
+Report: [98, 95, 94, 92, 91, 87, 86, 89] - Safe: false, Bad levels: 2
+Report: [83, 82, 78, 77, 76, 74, 74] - Safe: false, Bad levels: 2
+Report: [83, 80, 76, 73, 69] - Safe: false, Bad levels: 2
+Report: [25, 23, 19, 18, 15, 12, 6] - Safe: false, Bad levels: 2
+Report: [69, 68, 66, 60, 58] - Safe: false, Bad levels: 2
+Report: [15, 14, 8, 5, 2, 4] - Safe: false, Bad levels: 2
+Report: [55, 52, 50, 48, 46, 39, 37, 37] - Safe: false, Bad levels: 2
+Report: [42, 41, 40, 39, 37, 31, 27] - Safe: false, Bad levels: 2
+Report: [90, 88, 86, 84, 78, 72] - Safe: false, Bad levels: 2
+Report: [37, 39, 36, 33, 31, 29] - Safe: false, Bad levels: 2
+Report: [65, 67, 64, 62, 64] - Safe: false, Bad levels: 2
+Report: [57, 59, 56, 54, 51, 51] - Safe: false, Bad levels: 2
+Report: [49, 52, 51, 49, 46, 45, 43, 39] - Safe: false, Bad levels: 2
+Report: [47, 49, 46, 45, 42, 36] - Safe: false, Bad levels: 2
+Report: [55, 58, 56, 54, 55, 53, 52, 51] - Safe: false, Bad levels: 2
+Report: [29, 32, 29, 30, 29, 31] - Safe: false, Bad levels: 2
+Report: [95, 98, 97, 96, 97, 97] - Safe: false, Bad levels: 2
+Report: [36, 39, 36, 39, 37, 33] - Safe: false, Bad levels: 2
+Report: [79, 81, 79, 77, 80, 73] - Safe: false, Bad levels: 2
+Report: [55, 57, 56, 56, 54, 52, 51] - Safe: false, Bad levels: 2
+Report: [27, 30, 28, 25, 25, 22, 19, 21] - Safe: false, Bad levels: 2
+Report: [61, 64, 62, 62, 61, 61] - Safe: false, Bad levels: 2
+Report: [51, 53, 50, 48, 46, 46, 45, 41] - Safe: false, Bad levels: 2
+Report: [28, 31, 30, 30, 27, 25, 20] - Safe: false, Bad levels: 2
+Report: [27, 29, 25, 22, 19] - Safe: false, Bad levels: 2
+Report: [52, 54, 53, 49, 51] - Safe: false, Bad levels: 2
+Report: [31, 33, 31, 29, 28, 24, 21, 21] - Safe: false, Bad levels: 2
+Report: [29, 30, 26, 23, 21, 20, 16] - Safe: false, Bad levels: 2
+Report: [59, 61, 59, 55, 53, 48] - Safe: false, Bad levels: 2
+Report: [17, 18, 17, 14, 12, 9, 4, 3] - Safe: false, Bad levels: 2
+Report: [67, 70, 68, 63, 65] - Safe: false, Bad levels: 2
+Report: [42, 45, 43, 42, 36, 36] - Safe: false, Bad levels: 2
+Report: [34, 36, 35, 29, 27, 25, 21] - Safe: false, Bad levels: 2
+Report: [62, 64, 63, 62, 56, 53, 51, 46] - Safe: false, Bad levels: 2
+Report: [93, 93, 90, 87, 86, 85, 83, 85] - Safe: false, Bad levels: 2
+Report: [74, 74, 71, 68, 67, 66, 66] - Safe: false, Bad levels: 2
+Report: [31, 31, 28, 25, 22, 18] - Safe: false, Bad levels: 2
+Report: [40, 40, 39, 36, 34, 32, 25] - Safe: false, Bad levels: 2
+Report: [16, 16, 14, 17, 16, 15, 13, 11] - Safe: false, Bad levels: 2
+Report: [18, 18, 15, 12, 13, 12, 14] - Safe: false, Bad levels: 2
+Report: [77, 77, 75, 77, 76, 76] - Safe: false, Bad levels: 2
+Report: [53, 53, 54, 51, 48, 44] - Safe: false, Bad levels: 2
+Report: [81, 81, 84, 82, 79, 76, 74, 67] - Safe: false, Bad levels: 2
+Report: [74, 74, 71, 71, 68, 66, 65, 64] - Safe: false, Bad levels: 2
+Report: [4, 4, 4, 1, 2] - Safe: false, Bad levels: 2
+Report: [24, 24, 21, 21, 20, 20] - Safe: false, Bad levels: 2
+Report: [69, 69, 66, 64, 64, 63, 62, 58] - Safe: false, Bad levels: 2
+Report: [64, 64, 61, 61, 59, 57, 52] - Safe: false, Bad levels: 2
+Report: [28, 28, 25, 23, 19, 16, 13, 10] - Safe: false, Bad levels: 2
+Report: [22, 22, 20, 16, 14, 13, 15] - Safe: false, Bad levels: 2
+Report: [68, 68, 64, 63, 62, 62] - Safe: false, Bad levels: 2
+Report: [64, 64, 62, 58, 55, 52, 49, 45] - Safe: false, Bad levels: 2
+Report: [42, 42, 38, 37, 36, 31] - Safe: false, Bad levels: 2
+Report: [51, 51, 50, 49, 46, 40, 38] - Safe: false, Bad levels: 2
+Report: [77, 77, 71, 69, 68, 67, 65, 68] - Safe: false, Bad levels: 2
+Report: [25, 25, 24, 19, 17, 16, 15, 15] - Safe: false, Bad levels: 2
+Report: [99, 99, 98, 93, 90, 86] - Safe: false, Bad levels: 2
+Report: [82, 82, 76, 74, 72, 65] - Safe: false, Bad levels: 2
+Report: [91, 87, 86, 83, 81, 80, 79, 78] - Safe: false, Bad levels: 2
+Report: [55, 51, 50, 47, 44, 42, 40, 42] - Safe: false, Bad levels: 2
+Report: [56, 52, 51, 48, 46, 43, 41, 41] - Safe: false, Bad levels: 2
+Report: [72, 68, 66, 63, 62, 59, 55] - Safe: false, Bad levels: 2
+Report: [56, 52, 51, 50, 48, 47, 44, 37] - Safe: false, Bad levels: 2
+Report: [27, 23, 21, 23, 22] - Safe: false, Bad levels: 2
+Report: [10, 6, 4, 6, 7] - Safe: false, Bad levels: 2
+Report: [66, 62, 65, 62, 59, 57, 57] - Safe: false, Bad levels: 2
+Report: [76, 72, 69, 71, 69, 65] - Safe: false, Bad levels: 2
+Report: [45, 41, 42, 41, 39, 32] - Safe: false, Bad levels: 2
+Report: [28, 24, 24, 21, 20, 18] - Safe: false, Bad levels: 2
+Report: [27, 23, 22, 21, 21, 20, 17, 18] - Safe: false, Bad levels: 2
+Report: [41, 37, 35, 32, 32, 31, 31] - Safe: false, Bad levels: 2
+Report: [89, 85, 82, 79, 79, 76, 75, 71] - Safe: false, Bad levels: 2
+Report: [19, 15, 12, 9, 7, 7, 2] - Safe: false, Bad levels: 2
+Report: [54, 50, 47, 43, 42, 41] - Safe: false, Bad levels: 2
+Report: [32, 28, 24, 22, 23] - Safe: false, Bad levels: 2
+Report: [51, 47, 43, 42, 41, 40, 37, 37] - Safe: false, Bad levels: 2
+Report: [41, 37, 36, 32, 31, 27] - Safe: false, Bad levels: 2
+Report: [97, 93, 89, 87, 85, 82, 81, 76] - Safe: false, Bad levels: 2
+Report: [66, 62, 59, 58, 52, 49] - Safe: false, Bad levels: 2
+Report: [65, 61, 60, 57, 51, 53] - Safe: false, Bad levels: 2
+Report: [99, 95, 88, 87, 87] - Safe: false, Bad levels: 2
+Report: [88, 84, 82, 81, 75, 74, 71, 67] - Safe: false, Bad levels: 2
+Report: [76, 72, 66, 63, 62, 60, 55] - Safe: false, Bad levels: 2
+Report: [46, 41, 38, 36, 33, 31, 28] - Safe: false, Bad levels: 2
+Report: [82, 75, 72, 69, 71] - Safe: false, Bad levels: 2
+Report: [58, 53, 52, 49, 49] - Safe: false, Bad levels: 2
+Report: [53, 46, 45, 42, 38] - Safe: false, Bad levels: 2
+Report: [68, 62, 61, 58, 57, 55, 50] - Safe: false, Bad levels: 2
+Report: [66, 60, 58, 56, 57, 56, 54] - Safe: false, Bad levels: 2
+Report: [57, 51, 48, 46, 43, 46, 45, 46] - Safe: false, Bad levels: 2
+Report: [65, 60, 58, 56, 57, 55, 55] - Safe: false, Bad levels: 2
+Report: [73, 68, 69, 67, 63] - Safe: false, Bad levels: 2
+Report: [29, 24, 23, 24, 18] - Safe: false, Bad levels: 2
+Report: [34, 28, 26, 24, 21, 19, 19, 17] - Safe: false, Bad levels: 2
+Report: [51, 46, 45, 45, 46] - Safe: false, Bad levels: 2
+Report: [15, 8, 5, 3, 2, 2, 2] - Safe: false, Bad levels: 2
+Report: [56, 51, 50, 48, 48, 47, 43] - Safe: false, Bad levels: 2
+Report: [57, 51, 49, 48, 48, 42] - Safe: false, Bad levels: 2
+Report: [81, 76, 73, 69, 68] - Safe: false, Bad levels: 2
+Report: [92, 86, 83, 82, 78, 81] - Safe: false, Bad levels: 2
+Report: [56, 51, 49, 45, 42, 40, 40] - Safe: false, Bad levels: 2
+Report: [91, 84, 80, 77, 76, 72] - Safe: false, Bad levels: 2
+Report: [44, 39, 37, 33, 30, 25] - Safe: false, Bad levels: 2
+Report: [64, 57, 55, 54, 51, 44, 41, 38] - Safe: false, Bad levels: 2
+Report: [32, 27, 24, 18, 17, 16, 14, 17] - Safe: false, Bad levels: 2
+Report: [64, 58, 51, 49, 48, 45, 45] - Safe: false, Bad levels: 2
+Report: [72, 66, 64, 59, 57, 53] - Safe: false, Bad levels: 2
+Report: [83, 78, 72, 70, 68, 67, 60] - Safe: false, Bad levels: 2
+Report: [44, 47, 46, 47, 49] - Safe: false, Bad levels: 2
+Report: [15, 17, 20, 18, 20, 18] - Safe: false, Bad levels: 2
+Report: [22, 24, 27, 28, 30, 29, 29] - Safe: false, Bad levels: 2
+Report: [84, 85, 88, 87, 90, 96] - Safe: false, Bad levels: 2
+Report: [23, 24, 24, 26, 27, 29, 28] - Safe: false, Bad levels: 2
+Report: [24, 25, 25, 28, 28] - Safe: false, Bad levels: 2
+Report: [50, 53, 53, 55, 56, 60] - Safe: false, Bad levels: 2
+Report: [27, 28, 29, 30, 30, 32, 39] - Safe: false, Bad levels: 2
+Report: [48, 49, 52, 53, 54, 58, 60, 63] - Safe: false, Bad levels: 2
+Report: [16, 17, 20, 24, 27, 24] - Safe: false, Bad levels: 2
+Report: [5, 7, 8, 10, 12, 16, 16] - Safe: false, Bad levels: 2
+Report: [80, 81, 84, 85, 86, 87, 91, 95] - Safe: false, Bad levels: 2
+Report: [10, 11, 14, 18, 24] - Safe: false, Bad levels: 2
+Report: [48, 51, 53, 58, 59, 62, 64, 66] - Safe: false, Bad levels: 2
+Report: [30, 33, 34, 35, 41, 42, 43, 43] - Safe: false, Bad levels: 2
+Report: [8, 10, 11, 13, 14, 20, 24] - Safe: false, Bad levels: 2
+Report: [28, 30, 31, 36, 39, 42, 48] - Safe: false, Bad levels: 2
+Report: [61, 59, 61, 62, 65, 67, 69] - Safe: false, Bad levels: 2
+Report: [73, 70, 72, 73, 71] - Safe: false, Bad levels: 2
+Report: [90, 88, 89, 91, 93, 93] - Safe: false, Bad levels: 2
+Report: [15, 14, 17, 19, 20, 22, 24, 28] - Safe: false, Bad levels: 2
+Report: [46, 45, 47, 50, 52, 53, 58] - Safe: false, Bad levels: 2
+Report: [70, 67, 69, 66, 69] - Safe: false, Bad levels: 2
+Report: [66, 65, 67, 65, 68, 69, 70, 68] - Safe: false, Bad levels: 2
+Report: [8, 7, 5, 6, 9, 11, 11] - Safe: false, Bad levels: 2
+Report: [5, 3, 1, 2, 4, 8] - Safe: false, Bad levels: 2
+Report: [93, 92, 90, 92, 93, 99] - Safe: false, Bad levels: 2
+Report: [14, 12, 12, 14, 16] - Safe: false, Bad levels: 2
+Report: [16, 13, 13, 14, 16, 15] - Safe: false, Bad levels: 2
+Report: [23, 22, 22, 24, 27, 28, 29, 29] - Safe: false, Bad levels: 2
+Report: [34, 33, 33, 34, 37, 41] - Safe: false, Bad levels: 2
+Report: [11, 9, 11, 11, 12, 13, 15, 20] - Safe: false, Bad levels: 2
+Report: [28, 25, 27, 31, 32, 34] - Safe: false, Bad levels: 2
+Report: [63, 62, 66, 68, 70, 67] - Safe: false, Bad levels: 2
+Report: [35, 34, 37, 38, 42, 42] - Safe: false, Bad levels: 2
+Report: [10, 8, 12, 13, 16, 19, 23] - Safe: false, Bad levels: 2
+Report: [42, 39, 43, 44, 46, 52] - Safe: false, Bad levels: 2
+Report: [84, 81, 83, 90, 93] - Safe: false, Bad levels: 2
+Report: [56, 55, 61, 64, 61] - Safe: false, Bad levels: 2
+Report: [63, 60, 62, 63, 68, 70, 71, 71] - Safe: false, Bad levels: 2
+Report: [83, 80, 82, 83, 88, 92] - Safe: false, Bad levels: 2
+Report: [71, 69, 75, 77, 84] - Safe: false, Bad levels: 2
+Report: [38, 38, 39, 40, 41, 43, 40] - Safe: false, Bad levels: 2
+Report: [6, 6, 8, 10, 11, 13, 13] - Safe: false, Bad levels: 2
+Report: [46, 46, 49, 52, 55, 56, 60] - Safe: false, Bad levels: 2
+Report: [24, 24, 25, 27, 29, 31, 32, 37] - Safe: false, Bad levels: 2
+Report: [23, 23, 24, 27, 28, 29, 26, 27] - Safe: false, Bad levels: 2
+Report: [82, 82, 83, 86, 83, 84, 82] - Safe: false, Bad levels: 2
+Report: [48, 48, 51, 54, 55, 52, 52] - Safe: false, Bad levels: 2
+Report: [88, 88, 90, 89, 91, 94, 98] - Safe: false, Bad levels: 2
+Report: [11, 11, 14, 17, 15, 16, 23] - Safe: false, Bad levels: 2
+Report: [38, 38, 40, 40, 43] - Safe: false, Bad levels: 2
+Report: [35, 35, 38, 40, 40, 38] - Safe: false, Bad levels: 2
+Report: [26, 26, 27, 27, 27] - Safe: false, Bad levels: 2
+Report: [1, 1, 1, 3, 7] - Safe: false, Bad levels: 2
+Report: [1, 1, 4, 4, 7, 10, 11, 18] - Safe: false, Bad levels: 2
+Report: [83, 83, 87, 89, 91, 93] - Safe: false, Bad levels: 2
+Report: [37, 37, 40, 41, 42, 46, 49, 46] - Safe: false, Bad levels: 2
+Report: [9, 9, 10, 14, 15, 18, 18] - Safe: false, Bad levels: 2
+Report: [67, 67, 69, 71, 74, 77, 81, 85] - Safe: false, Bad levels: 2
+Report: [62, 62, 66, 67, 69, 75] - Safe: false, Bad levels: 2
+Report: [20, 20, 21, 23, 29, 32, 33, 36] - Safe: false, Bad levels: 2
+Report: [4, 4, 10, 13, 15, 16, 15] - Safe: false, Bad levels: 2
+Report: [44, 44, 45, 52, 53, 53] - Safe: false, Bad levels: 2
+Report: [80, 80, 87, 88, 89, 93] - Safe: false, Bad levels: 2
+Report: [13, 13, 14, 16, 22, 29] - Safe: false, Bad levels: 2
+Report: [25, 29, 31, 32, 34, 35] - Safe: false, Bad levels: 2
+Report: [86, 90, 92, 94, 95, 92] - Safe: false, Bad levels: 2
+Report: [28, 32, 35, 37, 39, 42, 44, 44] - Safe: false, Bad levels: 2
+Report: [26, 30, 31, 32, 35, 39] - Safe: false, Bad levels: 2
+Report: [54, 58, 61, 62, 63, 65, 72] - Safe: false, Bad levels: 2
+Report: [72, 76, 79, 81, 82, 79, 81, 83] - Safe: false, Bad levels: 2
+Report: [49, 53, 56, 58, 60, 63, 60, 57] - Safe: false, Bad levels: 2
+Report: [66, 70, 72, 69, 69] - Safe: false, Bad levels: 2
+Report: [84, 88, 85, 86, 90] - Safe: false, Bad levels: 2
+Report: [85, 89, 91, 94, 95, 92, 98] - Safe: false, Bad levels: 2
+Report: [8, 12, 13, 13, 14, 16, 19] - Safe: false, Bad levels: 2
+Report: [85, 89, 92, 92, 91] - Safe: false, Bad levels: 2
+Report: [74, 78, 79, 81, 82, 84, 84, 84] - Safe: false, Bad levels: 2
+Report: [57, 61, 61, 64, 66, 70] - Safe: false, Bad levels: 2
+Report: [36, 40, 40, 42, 44, 51] - Safe: false, Bad levels: 2
+Report: [2, 6, 8, 9, 12, 16, 17, 18] - Safe: false, Bad levels: 2
+Report: [26, 30, 31, 35, 36, 35] - Safe: false, Bad levels: 2
+Report: [50, 54, 58, 61, 64, 64] - Safe: false, Bad levels: 2
+Report: [47, 51, 52, 54, 58, 59, 63] - Safe: false, Bad levels: 2
+Report: [67, 71, 73, 77, 83] - Safe: false, Bad levels: 2
+Report: [7, 11, 18, 20, 21, 23] - Safe: false, Bad levels: 2
+Report: [66, 70, 73, 80, 77] - Safe: false, Bad levels: 2
+Report: [50, 54, 59, 61, 64, 67, 67] - Safe: false, Bad levels: 2
+Report: [76, 80, 81, 82, 83, 88, 90, 94] - Safe: false, Bad levels: 2
+Report: [68, 72, 73, 80, 82, 84, 91] - Safe: false, Bad levels: 2
+Report: [18, 23, 26, 27, 29, 30] - Safe: false, Bad levels: 2
+Report: [67, 74, 77, 78, 75] - Safe: false, Bad levels: 2
+Report: [18, 24, 25, 27, 27] - Safe: false, Bad levels: 2
+Report: [57, 64, 67, 68, 69, 73] - Safe: false, Bad levels: 2
+Report: [8, 13, 15, 16, 18, 19, 21, 27] - Safe: false, Bad levels: 2
+Report: [68, 74, 72, 73, 76, 78, 79, 80] - Safe: false, Bad levels: 2
+Report: [17, 22, 19, 22, 19] - Safe: false, Bad levels: 2
+Report: [72, 79, 78, 80, 80] - Safe: false, Bad levels: 2
+Report: [42, 47, 44, 45, 48, 52] - Safe: false, Bad levels: 2
+Report: [20, 27, 28, 27, 32] - Safe: false, Bad levels: 2
+Report: [44, 51, 54, 54, 56, 57, 60] - Safe: false, Bad levels: 2
+Report: [43, 49, 52, 55, 55, 56, 58, 55] - Safe: false, Bad levels: 2
+Report: [63, 70, 71, 71, 74, 75, 77, 77] - Safe: false, Bad levels: 2
+Report: [17, 22, 25, 27, 30, 30, 34] - Safe: false, Bad levels: 2
+Report: [18, 24, 27, 27, 29, 30, 32, 39] - Safe: false, Bad levels: 2
+Report: [56, 61, 64, 68, 71, 74] - Safe: false, Bad levels: 2
+Report: [48, 55, 59, 60, 61, 58] - Safe: false, Bad levels: 2
+Report: [13, 19, 22, 25, 29, 31, 31] - Safe: false, Bad levels: 2
+Report: [35, 40, 41, 42, 45, 49, 53] - Safe: false, Bad levels: 2
+Report: [24, 31, 34, 35, 37, 41, 46] - Safe: false, Bad levels: 2
+Report: [62, 69, 70, 73, 78, 81, 83] - Safe: false, Bad levels: 2
+Report: [47, 52, 54, 59, 62, 65, 68, 67] - Safe: false, Bad levels: 2
+Report: [16, 23, 24, 27, 29, 36, 38, 38] - Safe: false, Bad levels: 2
+Report: [57, 62, 63, 65, 72, 73, 75, 79] - Safe: false, Bad levels: 2
+Report: [68, 73, 74, 79, 82, 87] - Safe: false, Bad levels: 2
+Report: [10, 9, 7, 4, 2, 5, 4, 3] - Safe: false, Bad levels: 2
+Report: [74, 73, 71, 72, 75] - Safe: false, Bad levels: 2
+Report: [92, 90, 88, 86, 83, 86, 83, 83] - Safe: false, Bad levels: 2
+Report: [33, 32, 31, 33, 32, 27] - Safe: false, Bad levels: 2
+Report: [21, 20, 17, 15, 14, 12, 12, 14] - Safe: false, Bad levels: 2
+Report: [51, 48, 46, 43, 43, 40, 39, 39] - Safe: false, Bad levels: 2
+Report: [46, 43, 43, 41, 40, 36] - Safe: false, Bad levels: 2
+Report: [71, 68, 67, 64, 63, 63, 56] - Safe: false, Bad levels: 2
+Report: [37, 35, 32, 28, 27, 26, 23] - Safe: false, Bad levels: 2
+Report: [42, 41, 37, 36, 34, 33, 30, 32] - Safe: false, Bad levels: 2
+Report: [44, 41, 40, 38, 34, 34] - Safe: false, Bad levels: 2
+Report: [25, 24, 22, 18, 17, 14, 10] - Safe: false, Bad levels: 2
+Report: [81, 79, 77, 76, 72, 69, 68, 62] - Safe: false, Bad levels: 2
+Report: [36, 34, 29, 28, 27, 24, 21] - Safe: false, Bad levels: 2
+Report: [21, 20, 18, 16, 9, 12] - Safe: false, Bad levels: 2
+Report: [74, 72, 65, 64, 62, 62] - Safe: false, Bad levels: 2
+Report: [70, 67, 64, 62, 56, 54, 50] - Safe: false, Bad levels: 2
+Report: [89, 88, 82, 80, 77, 74, 73, 66] - Safe: false, Bad levels: 2
+Report: [79, 81, 78, 77, 75] - Safe: false, Bad levels: 2
+Report: [20, 23, 20, 19, 17, 19] - Safe: false, Bad levels: 2
+Report: [78, 79, 78, 75, 74, 72, 72] - Safe: false, Bad levels: 2
+Report: [86, 88, 87, 84, 83, 80, 79, 75] - Safe: false, Bad levels: 2
+Report: [98, 99, 98, 97, 95, 93, 86] - Safe: false, Bad levels: 2
+Report: [16, 18, 17, 18, 16] - Safe: false, Bad levels: 2
+Report: [28, 29, 26, 25, 24, 26, 26] - Safe: false, Bad levels: 2
+Report: [46, 48, 45, 48, 44] - Safe: false, Bad levels: 2
+Report: [27, 29, 26, 23, 25, 23, 17] - Safe: false, Bad levels: 2
+Report: [17, 18, 17, 17, 16, 15] - Safe: false, Bad levels: 2
+Report: [85, 86, 83, 82, 82, 79, 82] - Safe: false, Bad levels: 2
+Report: [88, 91, 91, 88, 88] - Safe: false, Bad levels: 2
+Report: [90, 91, 91, 88, 86, 84, 81, 77] - Safe: false, Bad levels: 2
+Report: [43, 45, 43, 43, 40, 34] - Safe: false, Bad levels: 2
+Report: [18, 20, 17, 15, 14, 11, 7, 6] - Safe: false, Bad levels: 2
+Report: [18, 19, 18, 15, 13, 9, 8, 10] - Safe: false, Bad levels: 2
+Report: [95, 97, 93, 90, 90] - Safe: false, Bad levels: 2
+Report: [89, 92, 91, 90, 86, 84, 83, 79] - Safe: false, Bad levels: 2
+Report: [95, 96, 92, 89, 87, 85, 80] - Safe: false, Bad levels: 2
+Report: [29, 32, 29, 23, 21] - Safe: false, Bad levels: 2
+Report: [21, 22, 19, 17, 11, 9, 12] - Safe: false, Bad levels: 2
+Report: [87, 88, 85, 83, 81, 76, 76] - Safe: false, Bad levels: 2
+Report: [57, 60, 54, 51, 49, 45] - Safe: false, Bad levels: 2
+Report: [85, 87, 81, 80, 77, 76, 73, 67] - Safe: false, Bad levels: 2
+Report: [65, 65, 64, 63, 60, 59, 60] - Safe: false, Bad levels: 2
+Report: [49, 49, 48, 47, 46, 45, 45] - Safe: false, Bad levels: 2
+Report: [56, 56, 53, 52, 51, 47] - Safe: false, Bad levels: 2
+Report: [82, 82, 80, 77, 75, 68] - Safe: false, Bad levels: 2
+Report: [47, 47, 48, 45, 44] - Safe: false, Bad levels: 2
+Report: [81, 81, 82, 79, 82] - Safe: false, Bad levels: 2
+Report: [36, 36, 39, 37, 37] - Safe: false, Bad levels: 2
+Report: [49, 49, 47, 45, 43, 42, 45, 41] - Safe: false, Bad levels: 2
+Report: [88, 88, 87, 90, 85] - Safe: false, Bad levels: 2
+Report: [54, 54, 52, 52, 51] - Safe: false, Bad levels: 2
+Report: [89, 89, 89, 87, 84, 83, 86] - Safe: false, Bad levels: 2
+Report: [33, 33, 31, 31, 28, 25, 25] - Safe: false, Bad levels: 2
+Report: [58, 58, 57, 54, 54, 52, 51, 47] - Safe: false, Bad levels: 2
+Report: [89, 89, 86, 86, 85, 78] - Safe: false, Bad levels: 2
+Report: [19, 19, 17, 14, 11, 7, 4, 1] - Safe: false, Bad levels: 2
+Report: [68, 68, 67, 63, 64] - Safe: false, Bad levels: 2
+Report: [78, 78, 74, 71, 70, 69, 69] - Safe: false, Bad levels: 2
+Report: [56, 56, 54, 50, 46] - Safe: false, Bad levels: 2
+Report: [23, 23, 20, 18, 14, 12, 5] - Safe: false, Bad levels: 2
+Report: [50, 50, 49, 48, 47, 46, 40, 37] - Safe: false, Bad levels: 2
+Report: [40, 40, 37, 34, 28, 31] - Safe: false, Bad levels: 2
+Report: [88, 88, 87, 82, 80, 77, 75, 75] - Safe: false, Bad levels: 2
+Report: [59, 59, 56, 55, 48, 44] - Safe: false, Bad levels: 2
+Report: [46, 46, 43, 38, 31] - Safe: false, Bad levels: 2
+Report: [83, 79, 76, 75, 72, 70] - Safe: false, Bad levels: 2
+Report: [67, 63, 62, 59, 56, 53, 52, 55] - Safe: false, Bad levels: 2
+Report: [94, 90, 89, 87, 87] - Safe: false, Bad levels: 2
+Report: [46, 42, 41, 38, 36, 33, 29] - Safe: false, Bad levels: 2
+Report: [48, 44, 42, 41, 39, 37, 35, 29] - Safe: false, Bad levels: 2
+Report: [59, 55, 53, 56, 58] - Safe: false, Bad levels: 2
+Report: [66, 62, 59, 61, 59, 59] - Safe: false, Bad levels: 2
+Report: [35, 31, 32, 31, 29, 25] - Safe: false, Bad levels: 2
+Report: [90, 86, 87, 85, 82, 80, 77, 72] - Safe: false, Bad levels: 2
+Report: [68, 64, 62, 60, 60, 58, 57, 55] - Safe: false, Bad levels: 2
+Report: [26, 22, 21, 18, 18, 17, 18] - Safe: false, Bad levels: 2
+Report: [44, 40, 39, 39, 39] - Safe: false, Bad levels: 2
+Report: [53, 49, 46, 44, 44, 40] - Safe: false, Bad levels: 2
+Report: [63, 59, 58, 56, 56, 54, 48] - Safe: false, Bad levels: 2
+Report: [93, 89, 85, 84, 81] - Safe: false, Bad levels: 2
+Report: [96, 92, 89, 88, 86, 82, 79, 81] - Safe: false, Bad levels: 2
+Report: [22, 18, 17, 13, 13] - Safe: false, Bad levels: 2
+Report: [77, 73, 69, 67, 63] - Safe: false, Bad levels: 2
+Report: [91, 87, 84, 83, 79, 76, 75, 70] - Safe: false, Bad levels: 2
+Report: [98, 94, 91, 85, 84, 81] - Safe: false, Bad levels: 2
+Report: [14, 10, 9, 3, 5] - Safe: false, Bad levels: 2
+Report: [90, 86, 81, 78, 75, 73, 73] - Safe: false, Bad levels: 2
+Report: [31, 27, 24, 22, 19, 18, 13, 9] - Safe: false, Bad levels: 2
+Report: [83, 79, 72, 70, 64] - Safe: false, Bad levels: 2
+Report: [83, 76, 75, 72, 69, 66, 64, 61] - Safe: false, Bad levels: 2
+Report: [48, 41, 39, 38, 35, 34, 37] - Safe: false, Bad levels: 2
+Report: [73, 68, 66, 65, 62, 60, 58, 58] - Safe: false, Bad levels: 2
+Report: [94, 89, 88, 86, 82] - Safe: false, Bad levels: 2
+Report: [65, 58, 55, 52, 50, 47, 42] - Safe: false, Bad levels: 2
+Report: [43, 36, 35, 34, 32, 30, 33, 32] - Safe: false, Bad levels: 2
+Report: [59, 54, 55, 53, 50, 52] - Safe: false, Bad levels: 2
+Report: [30, 23, 21, 19, 22, 22] - Safe: false, Bad levels: 2
+Report: [10, 5, 4, 3, 6, 2] - Safe: false, Bad levels: 2
+Report: [60, 53, 51, 48, 46, 49, 42] - Safe: false, Bad levels: 2
+Report: [14, 9, 9, 7, 5] - Safe: false, Bad levels: 2
+Report: [27, 21, 18, 17, 16, 16, 19] - Safe: false, Bad levels: 2
+Report: [94, 89, 86, 83, 83, 80, 80] - Safe: false, Bad levels: 2
+Report: [37, 31, 31, 28, 24] - Safe: false, Bad levels: 2
+Report: [52, 47, 45, 42, 40, 40, 35] - Safe: false, Bad levels: 2
+Report: [36, 31, 30, 28, 24, 22] - Safe: false, Bad levels: 2
+Report: [35, 30, 28, 25, 22, 20, 16, 18] - Safe: false, Bad levels: 2
+Report: [84, 78, 75, 71, 71] - Safe: false, Bad levels: 2
+Report: [77, 71, 68, 64, 60] - Safe: false, Bad levels: 2
+Report: [24, 17, 16, 15, 13, 9, 7, 1] - Safe: false, Bad levels: 2
+Report: [31, 25, 18, 15, 12] - Safe: false, Bad levels: 2
+Report: [47, 42, 35, 32, 31, 30, 32] - Safe: false, Bad levels: 2
+Report: [38, 31, 28, 26, 20, 20] - Safe: false, Bad levels: 2
+Report: [96, 90, 89, 86, 80, 79, 78, 74] - Safe: false, Bad levels: 2
+Report: [30, 24, 23, 21, 16, 9] - Safe: false, Bad levels: 2
+Report: [77, 77, 82, 84, 87, 89, 91, 89] - Safe: false, Bad levels: 2
+Report: [13, 13, 12, 14, 16, 20] - Safe: false, Bad levels: 2
+Report: [69, 64, 63, 59, 57, 54, 51, 51] - Safe: false, Bad levels: 2
+Report: [82, 87, 88, 90, 93, 95, 95] - Safe: false, Bad levels: 2
+Report: [85, 79, 76, 75, 76, 74, 77] - Safe: false, Bad levels: 2
+Report: [60, 64, 67, 73, 79] - Safe: false, Bad levels: 2
+Report: [86, 86, 85, 79, 75] - Safe: false, Bad levels: 2
+Report: [74, 68, 67, 61, 59] - Safe: false, Bad levels: 2
+Report: [61, 57, 54, 53, 53, 52, 51, 44] - Safe: false, Bad levels: 2
+Report: [79, 84, 81, 83, 85, 90] - Safe: false, Bad levels: 2
+Report: [80, 80, 76, 74, 73, 70, 70] - Safe: false, Bad levels: 2
+Report: [30, 31, 31, 29, 26, 23, 26] - Safe: false, Bad levels: 2
+Report: [38, 38, 41, 41, 44, 41] - Safe: false, Bad levels: 2
+Report: [88, 91, 90, 89, 87, 85, 82, 78] - Safe: false, Bad levels: 2
+Report: [32, 30, 28, 27, 21, 21] - Safe: false, Bad levels: 2
+Report: [89, 89, 86, 84, 81, 84, 83, 78] - Safe: false, Bad levels: 2
+Report: [40, 44, 48, 49, 50, 52, 55, 56] - Safe: false, Bad levels: 2
+Report: [92, 89, 91, 91, 88] - Safe: false, Bad levels: 2
+Report: [80, 86, 89, 95, 94] - Safe: false, Bad levels: 2
+Report: [49, 50, 50, 47, 42] - Safe: false, Bad levels: 2
+Report: [23, 28, 31, 34, 40] - Safe: false, Bad levels: 2
+Report: [39, 37, 35, 37, 31] - Safe: false, Bad levels: 2
+Report: [25, 28, 26, 23, 21, 22, 19, 17] - Safe: false, Bad levels: 2
+Report: [44, 38, 37, 39, 37, 33] - Safe: false, Bad levels: 2
+Report: [88, 90, 86, 83, 78] - Safe: false, Bad levels: 2
+Report: [77, 79, 83, 85, 88, 95] - Safe: false, Bad levels: 2
+Report: [60, 63, 61, 64, 60] - Safe: false, Bad levels: 2
+Report: [38, 45, 48, 51, 54, 57, 59, 57] - Safe: false, Bad levels: 2
+Report: [23, 21, 23, 25, 26, 27, 27] - Safe: false, Bad levels: 2
+Report: [66, 60, 59, 57, 56, 56, 54, 57] - Safe: false, Bad levels: 2
+Report: [49, 49, 49, 46, 44, 39] - Safe: false, Bad levels: 2
+Report: [40, 35, 33, 31, 26] - Safe: false, Bad levels: 2
+Report: [65, 63, 70, 73, 73] - Safe: false, Bad levels: 2
+Report: [38, 31, 26, 25, 20] - Safe: false, Bad levels: 2
+Report: [43, 39, 36, 32, 29, 23] - Safe: false, Bad levels: 2
+Report: [56, 54, 52, 50, 50, 47, 45, 39] - Safe: false, Bad levels: 2
+Report: [58, 55, 58, 59, 61, 58, 59, 64] - Safe: false, Bad levels: 2
+Report: [47, 45, 43, 45, 45] - Safe: false, Bad levels: 2
+Report: [81, 81, 78, 77, 75, 71, 64] - Safe: false, Bad levels: 2
+Report: [48, 42, 41, 38, 39, 36, 33, 33] - Safe: false, Bad levels: 2
+Report: [78, 77, 83, 85, 89] - Safe: false, Bad levels: 2
+Report: [14, 17, 15, 14, 11, 9] - Safe: false, Bad levels: 2
+Report: [62, 58, 57, 51, 50, 47, 43] - Safe: false, Bad levels: 2
+Report: [95, 92, 95, 96, 95] - Safe: false, Bad levels: 2
+Report: [62, 65, 66, 70, 73, 75, 75] - Safe: false, Bad levels: 2
+Report: [32, 33, 33, 31, 30] - Safe: false, Bad levels: 2
+Report: [94, 93, 92, 87, 83] - Safe: false, Bad levels: 2
+Report: [16, 16, 19, 24, 27, 28, 30, 32] - Safe: false, Bad levels: 2
+Report: [60, 62, 60, 57, 55, 56, 51] - Safe: false, Bad levels: 2
+Report: [70, 73, 71, 74, 73, 72, 72] - Safe: false, Bad levels: 2
+Report: [9, 8, 11, 18, 20, 23, 22] - Safe: false, Bad levels: 2
+Report: [74, 69, 67, 65, 63, 57, 54, 54] - Safe: false, Bad levels: 2
+Report: [14, 15, 13, 11, 12, 13] - Safe: false, Bad levels: 2
+Report: [26, 30, 32, 30, 28] - Safe: false, Bad levels: 2
+Report: [32, 32, 34, 33, 33] - Safe: false, Bad levels: 2
+Report: [4, 8, 10, 13, 11, 14, 18] - Safe: false, Bad levels: 2
+Report: [25, 25, 18, 16, 14, 13, 12, 12] - Safe: false, Bad levels: 2
+Report: [63, 59, 58, 54, 53] - Safe: false, Bad levels: 2
+Report: [40, 43, 40, 39, 38, 32, 26] - Safe: false, Bad levels: 2
+Report: [49, 49, 51, 55, 59] - Safe: false, Bad levels: 2
+Report: [23, 23, 16, 14, 13, 10, 7, 2] - Safe: false, Bad levels: 2
+Report: [84, 80, 76, 74, 71, 70, 69, 65] - Safe: false, Bad levels: 2
+Report: [75, 70, 68, 65, 61] - Safe: false, Bad levels: 2
+Report: [15, 9, 6, 5, 7, 1] - Safe: false, Bad levels: 2
+Report: [45, 41, 38, 36, 33, 28, 27] - Safe: false, Bad levels: 2
+Report: [49, 55, 57, 57, 63] - Safe: false, Bad levels: 2
+Report: [29, 33, 36, 38, 39, 45] - Safe: false, Bad levels: 2
+Report: [49, 48, 49, 52, 56, 63] - Safe: false, Bad levels: 2
+Report: [40, 43, 46, 52, 55, 56] - Safe: false, Bad levels: 2
+Report: [18, 14, 11, 8, 8, 6] - Safe: false, Bad levels: 2
+Report: [42, 48, 49, 51, 50, 52, 49] - Safe: false, Bad levels: 2
+Report: [39, 45, 44, 46, 48, 48] - Safe: false, Bad levels: 2
+Report: [69, 73, 73, 74, 74] - Safe: false, Bad levels: 2
+Report: [95, 98, 95, 94, 93, 89, 88, 88] - Safe: false, Bad levels: 2
+Report: [13, 10, 13, 17, 18, 20, 21, 21] - Safe: false, Bad levels: 2
+Report: [52, 49, 46, 43, 37, 36, 29] - Safe: false, Bad levels: 2
+Report: [31, 32, 35, 37, 43, 46, 48, 48] - Safe: false, Bad levels: 2
+Report: [38, 38, 39, 45, 50] - Safe: false, Bad levels: 2
+Report: [47, 45, 40, 39, 36] - Safe: false, Bad levels: 2
+Report: [36, 36, 38, 35, 32] - Safe: false, Bad levels: 2
+Report: [67, 61, 61, 59, 56, 53, 53] - Safe: false, Bad levels: 2
+Report: [79, 84, 88, 90, 92, 94, 95, 93] - Safe: false, Bad levels: 2
+Report: [74, 78, 79, 82, 84, 88, 90, 94] - Safe: false, Bad levels: 2
+Report: [14, 18, 21, 19, 22, 25, 26, 31] - Safe: false, Bad levels: 2
+Report: [87, 83, 80, 79, 78, 76, 78, 73] - Safe: false, Bad levels: 2
+Report: [90, 84, 81, 79, 76, 74, 74, 72] - Safe: false, Bad levels: 2
+Report: [56, 60, 64, 66, 69, 74] - Safe: false, Bad levels: 2
+Report: [3, 7, 9, 12, 15, 17, 20, 19] - Safe: false, Bad levels: 2
+Report: [29, 32, 29, 28, 26, 24, 18, 16] - Safe: false, Bad levels: 2
+Report: [66, 62, 60, 60, 58, 56, 52] - Safe: false, Bad levels: 2
+Report: [62, 66, 69, 71, 74, 74] - Safe: false, Bad levels: 2
+Report: [53, 53, 52, 49, 48, 45, 44, 47] - Safe: false, Bad levels: 2
+Report: [33, 37, 38, 41, 44, 45, 50, 53] - Safe: false, Bad levels: 2
+Report: [40, 44, 49, 52, 54, 57, 57] - Safe: false, Bad levels: 2
+Report: [8, 6, 13, 16, 18, 20, 25] - Safe: false, Bad levels: 2
+Report: [7, 3, 1, 1, 4] - Safe: false, Bad levels: 2
+Report: [23, 24, 21, 20, 19, 22] - Safe: false, Bad levels: 2
+Report: [77, 80, 78, 73, 72, 74] - Safe: false, Bad levels: 2
+Report: [10, 10, 7, 8, 11, 13, 15] - Safe: false, Bad levels: 2
+Report: [49, 49, 56, 58, 61, 61] - Safe: false, Bad levels: 2
+Report: [51, 47, 45, 48, 47, 43] - Safe: false, Bad levels: 2
+Report: [67, 67, 66, 65, 66, 64, 63, 64] - Safe: false, Bad levels: 2
+Report: [97, 90, 89, 86, 84, 84] - Safe: false, Bad levels: 2
+Report: [16, 20, 23, 26, 31, 35] - Safe: false, Bad levels: 2
+Report: [64, 66, 65, 64, 62, 60, 59, 54] - Safe: false, Bad levels: 2
+Report: [17, 24, 30, 32, 35] - Safe: false, Bad levels: 2
+Report: [99, 93, 90, 88, 84, 80] - Safe: false, Bad levels: 2
+Report: [33, 37, 38, 37, 38, 41] - Safe: false, Bad levels: 2
+Report: [7, 12, 13, 17, 20, 22, 23, 23] - Safe: false, Bad levels: 2
+Report: [88, 84, 81, 76, 74, 69] - Safe: false, Bad levels: 2
+Report: [6, 10, 13, 17, 19, 18] - Safe: false, Bad levels: 2
+Report: [30, 34, 36, 38, 42] - Safe: false, Bad levels: 2
+Report: [77, 77, 74, 72, 71, 69, 66, 61] - Safe: false, Bad levels: 2
+Report: [88, 88, 84, 81, 78] - Safe: false, Bad levels: 2
+Safe reports: 421
